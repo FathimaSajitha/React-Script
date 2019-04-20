@@ -1,0 +1,111 @@
+{
+  "adddefect": [
+    {
+      "ID": "1",
+      "defectid": "001",
+      "defecttype": "UI",
+      "defectdescription": "gfrdeyh",
+      "module": "module1",
+      "severity": "High",
+      "Piriority": "Low",
+      "status": "jjjj",
+      "assignedperson": "ddd",
+      "enterddate": "11",
+      "enteredby": "hhhh",
+      "fixeddate": "12",
+      "fixedby": "ddd",
+      "availablein": "ddd",
+      "comments": "ddd"
+    },
+    {
+      "ID": "2",
+      "defectid": "002",
+      "defecttype": "Functionality",
+      "defectdescription": "nnnnhhgfd",
+      "module": "module2",
+      "severity": "Low",
+      "Piriority": "High",
+      "status": "Open",
+      "assignedperson": "Mr.Paul",
+      "enterddate": "11.02.2019",
+      "enteredby": "Mr.john",
+      "fixeddate": "12.02.2019",
+      "fixedby": "Mr.Dan",
+      "availablein": "swdea",
+      "comments": "This is a severe defect."
+    },
+    {
+      "ID": "3",
+      "defectid": "003",
+      "defecttype": "Enhancement",
+      "defectdescription": "This is a severe Defect",
+      "module": "module3",
+      "severity": "Medium",
+      "Piriority": "Low",
+      "status": "Open",
+      "assignedperson": "Mr.John",
+      "enterddate": "21.03.2019",
+      "enteredby": "Mr.Camo",
+      "fixeddate": "22.02.2019",
+      "fixedby": "Mr.John",
+      "availablein": "swdea",
+      "comments": "This is a severe defect."
+    }
+  ],
+  "addmodules": [
+    {
+      "id": "module1",
+      "modulename": "module1",
+      "userid": "userID",
+      "projectid": "projectID"
+    },
+    {
+      "id": "Mudule2",
+      "modulename": "Module Name",
+      "userid": "User ID 1",
+      "projectid": "Project ID 1"
+    },
+    {
+      "id": "module3",
+      "modulename": "module name",
+      "userid": "user id 2",
+      "projectid": "project id 3"
+    },
+    {
+      "id": "011",
+      "modulename": "0000",
+      "userid": "0000",
+      "projectid": "0000"
+    },
+    {
+      "id": "12",
+      "modulename": "module-12",
+      "userid": "12",
+      "projectid": "12"
+    }
+  ],
+  "Add_Users": [
+    {
+      "id": "001",
+      "name": "Mr.Paul",
+      "role": "Developer",
+      "password": "000000"
+    },
+    {
+      "id": "002",
+      "name": "Mr.John",
+      "role": "QA",
+      "password": "111111"
+    }
+  ],
+  "Add_Project": [
+    {
+      "pid": "002",
+      "projectid": "0003"
+    },
+    {
+      "pid": "003",
+      "projectid": "0008"
+    }
+  ]
+}
